@@ -1,6 +1,6 @@
 # From-Scratch K-Nearest Neighbors Classifier
 
-This project implements a K-nearest neighbors (KNN) classifier from scratch in Python and evaluates it on both binary and multiclass classification tasks. The project was originally developed as a course notebook and has been refactored into a repository with reusable source code, tests, and a cleaned analysis workflow.
+This project implements a K-nearest neighbors (KNN) classifier from scratch in Python and evaluates it on both binary and multiclass classification tasks. It was originally developed as part of GRAD 50400 at Purdue University and has been refactored into a portfolio-ready repository with reusable source code, tests, and a cleaned analysis workflow.
 
 ## Project goals
 
